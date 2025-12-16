@@ -1,7 +1,7 @@
 ## Hello! 
 
 ### About
-I'm Andre, an undergraduate studying Computer Science & Mathematics at the National University of Singapore. I like machine learning and distributed systems. Perhaps some day I'll be good enough to design next-generation ML systems and pipelines. I soemtimes write too, though consistency isn't my strong suit.
+I'm Andre, an undergraduate studying Computer Science & Mathematics at the National University of Singapore. I like machine learning and distributed systems. Perhaps some day I'll be good enough to design next-generation ML systems and pipelines. I sometimes write too, though consistency isn't my strong suit.
 <br></br>
 Now, i'm busy studying & schooling.  
 Occassionally, i'll dabble with research.  
@@ -17,6 +17,7 @@ Check out PaperDebugger ([PaperDebugger/paperdebugger](https://github.com/PaperD
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=4ndrelim)
 
 ### Contact
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/4ndre_lim/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-linhk/)
 <br></br>
 [![Email](https://img.shields.io/badge/-Email-blue)](mailto:andre_lin@u.nus.edu)
